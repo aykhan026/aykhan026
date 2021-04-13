@@ -5,10 +5,11 @@
 
 - 🖥  t.me/RoBotlarimTg
 
-## GitHub -da izləyin 👨🏻‍💻
+### GitHub -da izləyin 👨🏻‍💻
 <p align="left">
 <a href="https://github.com/aykhan026"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-## Telegram -da izləyin 👨🏻‍💻
+
+### Telegram -da izləyin 👨🏻‍💻
 </p><p align="left">
 <a href="https://t.me/aykhan_s"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 <a href="https://t.me/RoBotlarimTg"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
